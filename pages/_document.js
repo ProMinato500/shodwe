@@ -10,7 +10,7 @@ export default function Document() {
         <link rel="stylesheet" href="https://unpkg.com/flowbite@1.4.2/dist/flowbite.min.css" />
         <link rel="shortcut icon" href="/images/designo-faviconn.png" />
         <meta name="description" content="Designo is a design and development studio based in London, UK. We specialise in creating websites and mobile apps." />
-        <title>Designo</title>
+        <title>Shodwe</title>
       </Head>
       <body>
         <Main />
